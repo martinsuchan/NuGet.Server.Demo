@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>MyRandomGenerator</id>
+        <version>1.0.0</version>
+        <authors>Martin Suchan</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>First version</description>
+        <releaseNotes>First version</releaseNotes>
+    </metadata>
+    <files>
+        <file src="..\MyCoolLibrary\bin\Release\MyCoolLibrary.dll" target="Lib\net45\MyCoolLibrary.dll" />
+        <file src="..\MyCoolLibrary\bin\Release\MyCoolLibrary.pdb" target="Lib\net45\MyCoolLibrary.pdb" />
+    </files>
+</package>
